@@ -3,3 +3,5 @@
 canvas
 * _viewport-sized javascript canvas_
 * _scales to viewport on window resize_
+* _customiseable background colour_
+* _includes css_
